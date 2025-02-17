@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+#!/usr/bin/python3
 """ holds class Amenity"""
 import models
 from models.base_model import BaseModel, Base
